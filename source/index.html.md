@@ -9,7 +9,10 @@ toc_footers:
 
 includes:
   - introduction
+  - architecture
   - api
+  - websocket
+  - fix
   - authors
   - errors
   - references
