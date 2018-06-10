@@ -200,7 +200,7 @@ Authorization: Bearer `token`
                 "side": "BUY",
                 "trader": "John Doe"
             },
-            "trade_time": "2018-06-05T20:59:08+08:00"
+            "trade_time": "2018-06-08 20:52:23 +0800 CST"
         }
     ],
     "page": 6,
@@ -356,7 +356,7 @@ Authorization: Bearer `admin token`
                 "side": "BUY",
                 "trader": "John Doe"
             },
-            "trade_time": "2018-06-05T20:59:08+08:00"
+            "trade_time": "2018-06-08 20:52:23 +0800 CST"
         }
     ],
     "page": 6,
