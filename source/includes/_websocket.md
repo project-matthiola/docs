@@ -46,7 +46,7 @@ When subscribing to the channel, it will first send a message with the type `tra
 ```json
 {
     "type": "trade",
-    "mode": "snapshot",
+    "mode": "update",
     "futures_id": "GC_SEP18",
     "data": {
         "price": "50.01",
